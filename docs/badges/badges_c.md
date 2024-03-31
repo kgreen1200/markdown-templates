@@ -2,7 +2,7 @@
 | Name | Badge | URL | Brand Guidelines |
 | ---: | :---: | :--- | :--- |
 | C | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=333333) | `https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=333333` |   |
-| C# | ![C#](https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF) | `https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF` |   |
+| C# | ![C#](https://img.shields.io/badge/C--Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF) | `https://img.shields.io/badge/C--Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF` |   |
 | C# | ![C sharp](https://img.shields.io/badge/C_sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF) | `https://img.shields.io/badge/C_sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=FFFFFF` |   |
 | C++ | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF) | `https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF` |   |
 | C++ Builder | ![C++ Builder](https://img.shields.io/badge/C++_Builder-E62431?style=for-the-badge&logo=cbuilder&logoColor=FFFFFF) | `https://img.shields.io/badge/C++_Builder-E62431?style=for-the-badge&logo=cbuilder&logoColor=FFFFFF` | [Link](https://www.ideracorp.com/legal/embarcadero) |

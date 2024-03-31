@@ -3,7 +3,7 @@
 | ---: | :---: | :--- | :--- |
 | F-Droid | ![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=fdroid&logoColor=FFFFFF) | `https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=fdroid&logoColor=FFFFFF` |   |
 | F-Secure | ![F-Secure](https://img.shields.io/badge/F--Secure-00BAFF?style=for-the-badge&logo=fsecure&logoColor=FFFFFF) | `https://img.shields.io/badge/F--Secure-00BAFF?style=for-the-badge&logo=fsecure&logoColor=FFFFFF` |   |
-| F# | ![F#](https://img.shields.io/badge/F#-378BBA?style=for-the-badge&logo=fsharp&logoColor=FFFFFF) | `https://img.shields.io/badge/F#-378BBA?style=for-the-badge&logo=fsharp&logoColor=FFFFFF` | [Link](https://foundation.fsharp.org/logo) |
+| F# | ![F#](https://img.shields.io/badge/F--Sharp-378BBA?style=for-the-badge&logo=fsharp&logoColor=FFFFFF) | `https://img.shields.io/badge/F--Sharp-378BBA?style=for-the-badge&logo=fsharp&logoColor=FFFFFF` | [Link](https://foundation.fsharp.org/logo) |
 | F# | ![F sharp](https://img.shields.io/badge/F_sharp-378BBA?style=for-the-badge&logo=fsharp&logoColor=FFFFFF) | `https://img.shields.io/badge/F_sharp-378BBA?style=for-the-badge&logo=fsharp&logoColor=FFFFFF` | [Link](https://foundation.fsharp.org/logo) |
 | F1 | ![F1](https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=f1&logoColor=FFFFFF) | `https://img.shields.io/badge/F1-E10600?style=for-the-badge&logo=f1&logoColor=FFFFFF` |   |
 | F5 | ![F5](https://img.shields.io/badge/F5-E4002B?style=for-the-badge&logo=f5&logoColor=FFFFFF) | `https://img.shields.io/badge/F5-E4002B?style=for-the-badge&logo=f5&logoColor=FFFFFF` |   |

@@ -1,4 +1,5 @@
 import json
+import math
 import shutil
 import string
 from pathlib import Path
@@ -18,7 +19,8 @@ def brightness(h):
     """
     h = h.lstrip("#")
     rgb = tuple(int(h[i:i+2], 16) for i in (0, 2, 4))
-    return (rgb[0] * 299 + rgb[1] * 587 + rgb[2] * 114) / 255000
+    b = ((rgb[0] * 299 + rgb[1] * 587 + rgb[2] * 114) / 255000) * 100.0
+    return math.trunc(b) / 100.0
 
 # Clear out docs directory for storing badge titles
 if DOCS_DIR.is_dir():
@@ -60,6 +62,6 @@ for index, data in slugs_df.iterrows():
     file = DOCS_DIR / f"badges_{file_index}.md"
     with file.open("a", encoding="utf8") as badge_list:
         for name in names:
-            formatted_name = name.replace(" ", "_").replace("-", "--")
+            formatted_name = name.replace("#", "-Sharp").replace(" ", "_").replace("-", "--")
             badge_url = f"https://img.shields.io/badge/{formatted_name}-{h}?style=for-the-badge&logo={slug}&logoColor={text_color}"
             badge_list.write(f"| {index} | ![{name}]({badge_url}) | `{badge_url}` | {guidelines} |\n")

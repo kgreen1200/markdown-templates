@@ -65,7 +65,7 @@
 | HomeAdvisor | ![HomeAdvisor](https://img.shields.io/badge/HomeAdvisor-F68315?style=for-the-badge&logo=homeadvisor&logoColor=FFFFFF) | `https://img.shields.io/badge/HomeAdvisor-F68315?style=for-the-badge&logo=homeadvisor&logoColor=FFFFFF` |   |
 | Homebrew | ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=333333) | `https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=333333` |   |
 | Homebridge | ![Homebridge](https://img.shields.io/badge/Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=FFFFFF) | `https://img.shields.io/badge/Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=FFFFFF` |   |
-| homify | ![homify](https://img.shields.io/badge/homify-7DCDA3?style=for-the-badge&logo=homify&logoColor=333333) | `https://img.shields.io/badge/homify-7DCDA3?style=for-the-badge&logo=homify&logoColor=333333` |   |
+| homify | ![homify](https://img.shields.io/badge/homify-7DCDA3?style=for-the-badge&logo=homify&logoColor=FFFFFF) | `https://img.shields.io/badge/homify-7DCDA3?style=for-the-badge&logo=homify&logoColor=FFFFFF` |   |
 | Honda | ![Honda](https://img.shields.io/badge/Honda-E40521?style=for-the-badge&logo=honda&logoColor=FFFFFF) | `https://img.shields.io/badge/Honda-E40521?style=for-the-badge&logo=honda&logoColor=FFFFFF` |   |
 | Honey | ![Honey](https://img.shields.io/badge/Honey-FF6801?style=for-the-badge&logo=honey&logoColor=FFFFFF) | `https://img.shields.io/badge/Honey-FF6801?style=for-the-badge&logo=honey&logoColor=FFFFFF` |   |
 | Hono | ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=FFFFFF) | `https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=FFFFFF` |   |
